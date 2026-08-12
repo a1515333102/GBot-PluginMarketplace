@@ -1,20 +1,7 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-12T13:36:14Z",
+    "updatedAt":  "2026-08-12T13:53:58Z",
     "plugins":  [
-                    {
-                        "id":  "backend",
-                        "name":  "代发",
-                        "version":  "1.0.9",
-                        "author":  "故里",
-                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体等后端能力",
-                        "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.17",
-                        "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/backend-1.0.9.zip",
-                        "sha256":  "9dc629b9e48824a4211820bf9ddf602867f48cd05d57169c1a92905001446585",
-                        "entryDll":  "GBot.Plugins.Backend.dll"
-                    },
                     {
                         "id":  "paybot",
                         "name":  "PayBot",
@@ -92,6 +79,19 @@
                         "downloadUrl":  "packages/guli_group_admin-2.1.6.zip",
                         "sha256":  "00ed7ac52489429b6cc73870cc60b73df375ca2b44baf63a07718a41c69fcef8",
                         "entryDll":  "故里群管.dll"
+                    },
+                    {
+                        "id":  "backend",
+                        "name":  "代发",
+                        "version":  "1.0.10",
+                        "author":  "故里",
+                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体等后端能力",
+                        "homepage":  "https://github.com/a1515333102/GBot",
+                        "minAppVersion":  "0.1.17",
+                        "abstractionsMajor":  1,
+                        "downloadUrl":  "packages/backend-1.0.10.zip",
+                        "sha256":  "7a84971a35d4bf424d98807358bbdfaf60585095a97ed6963a43412fc33e8eca",
+                        "entryDll":  "GBot.Plugins.Backend.dll"
                     }
                 ]
 }
