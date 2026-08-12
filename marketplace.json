@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-11T16:59:24Z",
+    "updatedAt":  "2026-08-12T02:26:37Z",
     "plugins":  [
                     {
                         "id":  "backend",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "1.0.8",
+                        "version":  "2.0.0",
                         "author":  "故里",
-                        "description":  "群管菜单、关键词/二维码撤回（含图片OCR）、问答配图、授权（按 AppID）",
+                        "description":  "群管菜单、娱乐、禁言、入群提示、关键词/二维码撤回、问答、授权（按 AppID）",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.27",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-1.0.8.zip",
-                        "sha256":  "9de012fe094d67211f32d9953ff5e04745340aa28772e077347f1a1bd818a288",
+                        "downloadUrl":  "packages/guli_group_admin-2.0.0.zip",
+                        "sha256":  "1665fe3849742501f02e50f9b0bfbb57a61dea664213ed7ef0a617b4786ad4f1",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
