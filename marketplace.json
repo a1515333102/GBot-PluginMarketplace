@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-12T04:38:16Z",
+    "updatedAt":  "2026-08-12T04:48:39Z",
     "plugins":  [
                     {
                         "id":  "backend",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "2.1.0",
+                        "version":  "2.1.1",
                         "author":  "故里",
                         "description":  "群管菜单、官机管理、娱乐、禁言、入群提示、关键词/二维码撤回、问答、授权（按 AppID）",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.27",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.1.0.zip",
-                        "sha256":  "93ab2dea0de7d6e8f34dde17f86b787461e55cc28e1a30d035cd393c8aadd4f7",
+                        "downloadUrl":  "packages/guli_group_admin-2.1.1.zip",
+                        "sha256":  "7adc7e1a96ce9c730d11e4f19971f3f7041d48e104e2823bde825151358e8ad1",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
