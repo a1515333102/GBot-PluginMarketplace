@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-12T14:53:51Z",
+    "updatedAt":  "2026-08-13T02:10:43Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -68,19 +68,6 @@
                         "entryDll":  "GBot.Plugins.GhReleaseWatch.dll"
                     },
                     {
-                        "id":  "backend",
-                        "name":  "代发",
-                        "version":  "1.0.10",
-                        "author":  "故里",
-                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体等后端能力",
-                        "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.17",
-                        "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/backend-1.0.10.zip",
-                        "sha256":  "7a84971a35d4bf424d98807358bbdfaf60585095a97ed6963a43412fc33e8eca",
-                        "entryDll":  "GBot.Plugins.Backend.dll"
-                    },
-                    {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
                         "version":  "2.2.1",
@@ -92,6 +79,19 @@
                         "downloadUrl":  "packages/guli_group_admin-2.2.1.zip",
                         "sha256":  "aa2c9395a6129a5cd19a99308f7faa2227f9f3639b309ac4496828912640811f",
                         "entryDll":  "故里群管.dll"
+                    },
+                    {
+                        "id":  "backend",
+                        "name":  "代发",
+                        "version":  "1.0.11",
+                        "author":  "故里",
+                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体、回复按钮键盘等后端能力",
+                        "homepage":  "https://github.com/a1515333102/GBot",
+                        "minAppVersion":  "0.1.17",
+                        "abstractionsMajor":  1,
+                        "downloadUrl":  "packages/backend-1.0.11.zip",
+                        "sha256":  "4dda09c8b8b69822d23af3122f1cf462dc2a8ea743f04a8c9da9840a6094f9fc",
+                        "entryDll":  "GBot.Plugins.Backend.dll"
                     }
                 ]
 }
