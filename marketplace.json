@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-13T02:14:19Z",
+    "updatedAt":  "2026-08-13T03:02:32Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -68,19 +68,6 @@
                         "entryDll":  "GBot.Plugins.GhReleaseWatch.dll"
                     },
                     {
-                        "id":  "guli_group_admin",
-                        "name":  "故里群管",
-                        "version":  "2.2.1",
-                        "author":  "故里",
-                        "description":  "群管菜单、官机管理、娱乐、禁言、入群提示、关键词/二维码撤回、问答、发言活跃、运行状态、插件市场浏览、授权（按 AppID）",
-                        "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.30",
-                        "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.2.1.zip",
-                        "sha256":  "aa2c9395a6129a5cd19a99308f7faa2227f9f3639b309ac4496828912640811f",
-                        "entryDll":  "故里群管.dll"
-                    },
-                    {
                         "id":  "backend",
                         "name":  "代发",
                         "version":  "1.0.12",
@@ -92,6 +79,19 @@
                         "downloadUrl":  "packages/backend-1.0.12.zip",
                         "sha256":  "3dec4e12572cee7c92eecfade1f5d395c8b44bdd37a1044f8409f0a89c4025e8",
                         "entryDll":  "GBot.Plugins.Backend.dll"
+                    },
+                    {
+                        "id":  "guli_group_admin",
+                        "name":  "故里群管",
+                        "version":  "2.2.3",
+                        "author":  "故里",
+                        "description":  "群管菜单、官机管理、娱乐、禁言、入群提示、关键词/二维码撤回、问答、发言活跃、运行状态、插件市场浏览、授权（按 AppID）",
+                        "homepage":  "https://github.com/a1515333102/GBot",
+                        "minAppVersion":  "0.1.30",
+                        "abstractionsMajor":  1,
+                        "downloadUrl":  "packages/guli_group_admin-2.2.3.zip",
+                        "sha256":  "b7117f2f504016a1bfc97671abf2c3e18b39db4a69634b146586c289748f6a90",
+                        "entryDll":  "故里群管.dll"
                     }
                 ]
 }
