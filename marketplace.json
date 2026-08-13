@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-13T02:10:43Z",
+    "updatedAt":  "2026-08-13T02:14:19Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -83,14 +83,14 @@
                     {
                         "id":  "backend",
                         "name":  "代发",
-                        "version":  "1.0.11",
+                        "version":  "1.0.12",
                         "author":  "故里",
-                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体、回复按钮键盘等后端能力",
+                        "description":  "HTTP 代发消息、入退群提示、Markdown/媒体、回复按钮（有 an 强制 MD）等后端能力",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.17",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/backend-1.0.11.zip",
-                        "sha256":  "4dda09c8b8b69822d23af3122f1cf462dc2a8ea743f04a8c9da9840a6094f9fc",
+                        "downloadUrl":  "packages/backend-1.0.12.zip",
+                        "sha256":  "3dec4e12572cee7c92eecfade1f5d395c8b44bdd37a1044f8409f0a89c4025e8",
                         "entryDll":  "GBot.Plugins.Backend.dll"
                     }
                 ]
