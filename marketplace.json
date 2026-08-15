@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-15T02:45:44Z",
+    "updatedAt":  "2026-08-15T07:11:57Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "2.4.0",
+                        "version":  "2.4.1",
                         "author":  "故里",
-                        "description":  "群管菜单、DOF 存数据库、官机管理、娱乐（随机图真实尺寸）、禁言、入群提示、发卡管理（支付宝经营码账单）、关键词/二维码撤回、问答、发言活跃、运行状态、插件市场浏览、授权（按 AppID）",
+                        "description":  "群管菜单、DOF 存数据库、官机管理、娱乐、禁言、入群提示、发卡管理、关键词/二维码撤回（OCR 日志与空格匹配增强）、问答、发言活跃、运行状态、插件市场浏览、授权（按 AppID）",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.32",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.4.0.zip",
-                        "sha256":  "52205e59e67a2022fee9ffe0c19650b9cb8402263933e85b9a68adafbb88838d",
+                        "downloadUrl":  "packages/guli_group_admin-2.4.1.zip",
+                        "sha256":  "70357a7337016d7eb352ed728a290d605c5c64a51dc417a167dee575dfe6525e",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
