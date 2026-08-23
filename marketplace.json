@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-21T16:03:32Z",
+    "updatedAt":  "2026-08-23T06:05:00Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -68,19 +68,6 @@
                         "entryDll":  "GBot.Plugins.GhReleaseWatch.dll"
                     },
                     {
-                        "id":  "guli_group_admin",
-                        "name":  "故里群管",
-                        "version":  "2.5.1",
-                        "author":  "故里",
-                        "description":  "群管菜单、定时消息、入群验证、DOF 福利/签到/角色绑定/战力点券排行、官机管理、娱乐、禁言、关键词禁言、入群提示、发卡管理、关键词/二维码/手动/自身撤回、问答、发言活跃、运行状态、授权（按 AppID）",
-                        "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.37",
-                        "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.5.1.zip",
-                        "sha256":  "6d262460075268042ff0303b60064df8928d481a228ce219d9dd51e54520e7c4",
-                        "entryDll":  "故里群管.dll"
-                    },
-                    {
                         "id":  "backend",
                         "name":  "代发",
                         "version":  "1.0.13",
@@ -92,6 +79,19 @@
                         "downloadUrl":  "packages/backend-1.0.13.zip",
                         "sha256":  "2fa5ce98a016cfc20c02ee350471adbacc898f2a2203702e16154dc5be328aaf",
                         "entryDll":  "GBot.Plugins.Backend.dll"
+                    },
+                    {
+                        "id":  "guli_group_admin",
+                        "name":  "故里群管",
+                        "version":  "2.6.0",
+                        "author":  "故里",
+                        "description":  "群管菜单、定时消息/低保/点券、入群验证、DOF 福利/签到/GM/积分商店/itemlist、官机管理、娱乐、禁言、入群提示、发卡、撤回、问答、发言活跃、运行状态、授权（按 AppID）",
+                        "homepage":  "https://github.com/a1515333102/GBot",
+                        "minAppVersion":  "0.1.37",
+                        "abstractionsMajor":  1,
+                        "downloadUrl":  "packages/guli_group_admin-2.6.0.zip",
+                        "sha256":  "87dd9dfbc4fa603e2390310e0a3964825b2cc8acf342fc76e3b573bc3b95764a",
+                        "entryDll":  "故里群管.dll"
                     }
                 ]
 }
