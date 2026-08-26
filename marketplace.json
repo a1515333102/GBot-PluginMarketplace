@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-08-25T04:35:46Z",
+    "updatedAt":  "2026-08-26T06:46:26Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "2.6.6",
+                        "version":  "2.6.7",
                         "author":  "故里",
-                        "description":  "群管菜单、定时消息/低保/点券、DOF 福利/随机福利/签到/GM/积分商店/itemlist、发卡 type2 指定人查卡密、官机管理、娱乐、禁言、入群提示、撤回、问答、发言活跃、运行状态、授权（按 AppID）；管理菜单与提示文案快引用排版优化",
+                        "description":  "群管菜单、定时消息/低保/点券、DOF 福利/随机福利/签到/GM/积分商店、发卡、官机管理、娱乐、禁言、入群提示、撤回、问答（答案可附 [btn:文字|指令或https链接] 按钮）、发言活跃、运行状态、授权（按 AppID）",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.37",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.6.6.zip",
-                        "sha256":  "960171858065926ecdddb28e646cf5fd7a0a79d7e8ecf0855a79a58726c8692e",
+                        "downloadUrl":  "packages/guli_group_admin-2.6.7.zip",
+                        "sha256":  "70234a055e14efb5b3224c72a5d2841b6e227b7a2733ade2ad35ae8e0de308d1",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
