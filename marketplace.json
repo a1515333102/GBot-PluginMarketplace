@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-09-01T14:05:49Z",
+    "updatedAt":  "2026-09-02T15:07:14Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "2.6.19",
+                        "version":  "2.6.20",
                         "author":  "故里",
-                        "description":  "群管菜单、定时消息、入群验证、DOF 福利/随机福利/签到（彩色 Markdown 昵称记忆）/角色绑定/战力点券排行、官机管理、娱乐（点歌选曲列表可点选序号、本地 silk 缓存加速重发；文字找茬/数字顺序1～25/成语接龙/海龟汤/数字炸弹，含个人记录与本群排行昵称、结束游戏、再来一局）、禁言、关键词禁言、入群提示、发卡管理（type2 指定人点选填入卡密）、关键词/二维码/手动/自身撤回、问答（答案可附 [btn:文字|指令或链接] 按钮）、发言活跃、运行状态、授权（按 AppID）；依赖机器人管理权限的功能未设管理时不可开启",
+                        "description":  "群管菜单、定时消息、入群验证、DOF 福利/随机福利/签到（彩色 Markdown 昵称记忆）/角色绑定/战力点券排行、官机管理、娱乐（点歌选曲列表可点选序号、本地 silk 缓存加速重发；文字找茬/数字顺序1～25/成语接龙/海龟汤/数字炸弹，含个人记录与本群排行昵称、结束游戏、再来一局）、禁言、关键词禁言、入群提示、发卡管理（type2 指定人点选填入卡密）、关键词/二维码/手动/自身撤回、问答（答案可附 [btn:文字|指令或链接] 按钮）、发言活跃、运行状态、授权（按 AppID；插件设置授权码错误时仅限 1 群）；依赖机器人管理权限的功能未设管理时不可开启",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.37",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.6.19.zip",
-                        "sha256":  "c9053be925afe0258bacab08416c46bdfacd7ca9b7659b7d94737d0ece5e4876",
+                        "downloadUrl":  "packages/guli_group_admin-2.6.20.zip",
+                        "sha256":  "c2dfe477fc0690061ac7adde9ebaec46525227dc66df794a3fe85211b12f822b",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
