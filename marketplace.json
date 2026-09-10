@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-09-08T17:12:44Z",
+    "updatedAt":  "2026-09-10T10:34:32Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -83,14 +83,14 @@
                     {
                         "id":  "guli_group_admin",
                         "name":  "故里群管",
-                        "version":  "2.6.27",
+                        "version":  "2.6.28",
                         "author":  "故里",
                         "description":  "群管",
                         "homepage":  "https://github.com/a1515333102/GBot",
                         "minAppVersion":  "0.1.37",
                         "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.6.27.zip",
-                        "sha256":  "ed6d5b21ae29587e7063b0365a340ce45532554689d38a96ccd5cc46e8515b24",
+                        "downloadUrl":  "packages/guli_group_admin-2.6.28.zip",
+                        "sha256":  "a300c1487b0c5d13cedc0e8e6c1180afb443da941f6fa8c5c9cbc995522488ce",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
