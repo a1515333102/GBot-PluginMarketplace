@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-09-17T01:40:36Z",
+    "updatedAt":  "2026-09-17T01:53:22Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -90,7 +90,7 @@
                         "minAppVersion":  "0.1.42",
                         "abstractionsMajor":  1,
                         "downloadUrl":  "packages/guli_group_admin-2.6.65.zip",
-                        "sha256":  "d81eb7b71fed15c003fb373c41ce4fab9b7d4f55961974a23a111a1d0a8c841e",
+                        "sha256":  "c30fa0e99efff9c1058e1af7ecf96a4e3662379c10312af1117ac5a17ae71e2e",
                         "entryDll":  "故里群管.dll"
                     }
                 ]
