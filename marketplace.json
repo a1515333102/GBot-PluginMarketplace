@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "updatedAt":  "2026-09-18T03:38:32Z",
+    "updatedAt":  "2026-09-18T04:19:33Z",
     "plugins":  [
                     {
                         "id":  "paybot",
@@ -68,19 +68,6 @@
                         "entryDll":  "GBot.Plugins.Backend.dll"
                     },
                     {
-                        "id":  "guli_group_admin",
-                        "name":  "故里群管",
-                        "version":  "2.6.67",
-                        "author":  "故里",
-                        "description":  "群管",
-                        "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.42",
-                        "abstractionsMajor":  1,
-                        "downloadUrl":  "packages/guli_group_admin-2.6.67.zip",
-                        "sha256":  "6a89be176a3dba937f2364294ce56dda6e390b2adf165b940b34779cafb7dd7f",
-                        "entryDll":  "故里群管.dll"
-                    },
-                    {
                         "id":  "gh_release_watch",
                         "name":  "GitHub 版本监控",
                         "version":  "1.3.3",
@@ -92,6 +79,19 @@
                         "downloadUrl":  "packages/gh_release_watch-1.3.3.zip",
                         "sha256":  "3ab82377f61bfaddb5c34bb792303ad02629794661db34b7e4bf315c8e3e066d",
                         "entryDll":  "GBot.Plugins.GhReleaseWatch.dll"
+                    },
+                    {
+                        "id":  "guli_group_admin",
+                        "name":  "故里群管",
+                        "version":  "2.6.68",
+                        "author":  "故里",
+                        "description":  "群管",
+                        "homepage":  "https://github.com/a1515333102/GBot",
+                        "minAppVersion":  "0.1.42",
+                        "abstractionsMajor":  1,
+                        "downloadUrl":  "packages/guli_group_admin-2.6.68.zip",
+                        "sha256":  "84605234617626f30101fa31ef3b95185c7b754768b5f98c438e3488538c35f4",
+                        "entryDll":  "故里群管.dll"
                     }
                 ]
 }
