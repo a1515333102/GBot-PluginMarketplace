@@ -87,7 +87,7 @@
                         "author":  "故里",
                         "description":  "群管",
                         "homepage":  "https://github.com/a1515333102/GBot",
-                        "minAppVersion":  "0.1.42",
+                        "minAppVersion":  "0.1.47",
                         "abstractionsMajor":  1,
                         "downloadUrl":  "packages/guli_group_admin-2.6.72.zip",
                         "sha256":  "9c2dd61914531b9dd8dc7ad5657cb38b488bac898b9a51ea49d063eb1dd84205",
